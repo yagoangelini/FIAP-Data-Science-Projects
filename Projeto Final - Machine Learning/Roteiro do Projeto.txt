@@ -1,0 +1,7 @@
+Conforme analisado nas disciplinas anteriores, você possui acesso aos dados de clientes da Quantum Finance, composto por mais de uma centena de variáveis independentes. A esta altura você já tem uma percepção da importância de cada um delas. Partindo deste ponto, realize:
+	1A) Apresente uma análise descritiva (EDA) dos dados, não esqueça de trazer as conclusões de negócio
+	1B) Realize a limpeza dos dados, e revise sua EDA. 
+	2A) Entenda que tipo de análise preditiva você quer realizar, se classificação ou regressão, e qual algoritmo lhe traz o melhor resultado. Caso necessário realize um trabalho de feature engineering.  
+	2B)  Realize um exercício para prever/inferir esta com base em combinação de variáveis diferentes. Experimente também com diversos tipos de algoritmos. Para todos eles, mensure a assertividade tanto nos dados de treino quanto de teste. Discorra sobre esses resultados. Não esqueça de realizar a separação dos dados em treino e teste.
+
+Dados:https://raw.githubusercontent.com/lcbjrrr/QuantumF/main/credit%20-%20ok.csv

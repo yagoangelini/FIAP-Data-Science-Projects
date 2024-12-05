@@ -1,0 +1,91 @@
+[{
+  "whatsapp" : "11998765432",
+  "score" : "123",
+  "endereco" : "Rua A, 123",
+  "emprestimoAprovado" : "Não",
+  "cpf_cliente" : "12345678901",
+  "nome" : "Maria Silva",
+  "email" : "maria@email.com",
+  "cep" : "12345678"
+},{
+  "whatsapp" : "11987654321",
+  "score" : "456",
+  "endereco" : "Avenida B, 456",
+  "emprestimoAprovado" : "Não",
+  "cpf_cliente" : "23456789012",
+  "nome" : "João Oliveira",
+  "email" : "joao@email.com",
+  "cep" : "87654321"
+},{
+  "whatsapp" : "11976543210",
+  "score" : "789",
+  "endereco" : "Praça C, 789",
+  "emprestimoAprovado" : "Sim",
+  "cpf_cliente" : "34567890123",
+  "nome" : "Ana Santos",
+  "email" : "ana@email.com",
+  "cep" : "45678901"
+},{
+  "whatsapp" : "11996917284",
+  "score" : "998",
+  "endereco" : "Onde ha alegria",
+  "emprestimoAprovado" : "Sim",
+  "cpf_cliente" : "34567891013",
+  "nome" : "Yago Angelini",
+  "email" : "yagao@wayne.com",
+  "cep" : "06172006"
+},{
+  "whatsapp" : "11965432109",
+  "score" : "987",
+  "endereco" : "Alameda D, 012",
+  "emprestimoAprovado" : "Sim",
+  "cpf_cliente" : "45678901234",
+  "nome" : "Pedro Souza",
+  "email" : "pedro@email.com",
+  "cep" : "78901234"
+},{
+  "whatsapp" : "11954321098",
+  "score" : "654",
+  "endereco" : "Travessa E, 345",
+  "emprestimoAprovado" : "Sim",
+  "cpf_cliente" : "56789012345",
+  "nome" : "Carla Pereira",
+  "email" : "carla@email.com",
+  "cep" : "90123456"
+},{
+  "whatsapp" : "11943210987",
+  "score" : "321",
+  "endereco" : "Rodovia F, 678",
+  "emprestimoAprovado" : "Não",
+  "cpf_cliente" : "67890123456",
+  "nome" : "Fernando Lima",
+  "email" : "fernando@email.com",
+  "cep" : "23456789"
+},{
+  "whatsapp" : "11932109876",
+  "score" : "231",
+  "endereco" : "Estrada G, 901",
+  "emprestimoAprovado" : "Não",
+  "cpf_cliente" : "78901234567",
+  "nome" : "Juliana Costa",
+  "email" : "juliana@email.com",
+  "cep" : "56789012"
+},{
+  "whatsapp" : "11921098765",
+  "score" : "564",
+  "endereco" : "Av. H, 234",
+  "emprestimoAprovado" : "Não",
+  "cpf_cliente" : "89012345678",
+  "nome" : "Lucas Oliveira",
+  "email" : "lucas@email.com",
+  "cep" : "90123456"
+},{
+  "whatsapp" : "11910987654",
+  "score" : "897",
+  "endereco" : "Rua I, 567",
+  "emprestimoAprovado" : "Sim",
+  "cpf_cliente" : "90123456789",
+  "nome" : "Mariana Almeida",
+  "email" : "mariana@email.com",
+  "cep" : "34567890"
+}]

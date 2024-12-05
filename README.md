@@ -1,0 +1,2 @@
+# FIAP Data Science Projects
+- A curated collection of data science and AI projects from FIAP's MBA program, designed to tackle real-world challenges with machine learning, predictive analysis, and AI-driven strategies.
