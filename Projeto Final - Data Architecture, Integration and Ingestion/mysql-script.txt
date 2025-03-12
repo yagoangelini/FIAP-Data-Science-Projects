@@ -1,0 +1,33 @@
+NOME 01: YAGO ANGELINI CANDIDO | RM: 354173
+NOME 02: RAFAEL GOMES | RM: 354009
+
+# 1) CRIAÇÃO DO DATABASE quantumfinance
+create database quantumfinance;
+
+# 2) SELECIONAR DATABASE quantumfinance
+use quantumfinance;
+
+# 3) CRIAÇÃO DA TABELA cliente
+create table cliente(
+    cpf_cliente char(11) NOT NULL,
+    nome varchar(50) NOT NULL,
+    endereco varchar(100) NOT NULL,
+    cep char(8) NOT NULL,
+    score varchar(4) NOT NULL,
+    email varchar(50),
+    whatsapp char(11) NOT NULL,
+    primary key(cpf_cliente)
+);
+
+# 4) INSERÇÃO DE DADOS NA TABELA cliente
+INSERT INTO cliente (cpf_cliente, nome, endereco, cep, score, email, whatsapp) VALUES
+('12345678901', 'Maria Silva', 'Rua A, 123', '12345678', '123', 'maria@email.com', '11998765432'),
+('23456789012', 'João Oliveira', 'Avenida B, 456', '87654321', '456', 'joao@email.com', '11987654321'),
+('34567890123', 'Ana Santos', 'Praça C, 789', '45678901', '789', 'ana@email.com', '11976543210'),
+('45678901234', 'Pedro Souza', 'Alameda D, 012', '78901234', '987', 'pedro@email.com', '11965432109'),
+('56789012345', 'Carla Pereira', 'Travessa E, 345', '90123456', '654', 'carla@email.com', '11954321098'),
+('67890123456', 'Fernando Lima', 'Rodovia F, 678', '23456789', '321', 'fernando@email.com', '11943210987'),
+('78901234567', 'Juliana Costa', 'Estrada G, 901', '56789012', '231', 'juliana@email.com', '11932109876'),
+('89012345678', 'Lucas Oliveira', 'Av. H, 234', '90123456', '564', 'lucas@email.com', '11921098765'),
+('90123456789', 'Mariana Almeida', 'Rua I, 567', '34567890', '897', 'mariana@email.com', '11910987654'),
+('34567891013', 'Yago Angelini', 'Onde ha alegria', '06172006', '998', 'yagao@wayne.com', '11996917284');
